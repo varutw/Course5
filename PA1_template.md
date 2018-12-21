@@ -1,6 +1,8 @@
 ---
 title: "PA1_template"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 1. Code for reading in the dataset and/or processing the data
